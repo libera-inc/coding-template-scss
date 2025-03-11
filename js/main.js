@@ -25,6 +25,6 @@ window.addEventListener("resize", switchViewport);
  * ハンバーガーメニュー
  */
 const initializeHamburgerMenu = () => {
-    console.log("hamburgermenu");
+    console.log("ハンバーガーメニュー");
 };
 initializeHamburgerMenu();
